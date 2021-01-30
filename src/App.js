@@ -6,9 +6,9 @@ import Portfolio from "./containers/Portfolio/Portfolio";
 function App() {
   return (
     <Router basename="/">
-      <Route exact path="/" Component={Home} />
-      <Route exact path="/Contact" Component={Contact} />
-      <Route exact path="/Portfolio" Component={Portfolio} />
+      <Route exact path="/" component={Home} />
+      <Route exact path="/Contact" component={Contact} />
+      <Route exact path="/Portfolio" component={Portfolio} />
     </Router>
   );
 }
