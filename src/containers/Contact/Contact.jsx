@@ -1,6 +1,6 @@
 import React from "react";
 import ImageResume from "../../assets/resume.png";
-import Resume from "../../assets/Resume(2020).pdf";
+// import Resume from "../../assets/Resume(2020).pdf";
 import "./Contact.css";
 const Contact = () => {
   return (
@@ -41,11 +41,12 @@ const Contact = () => {
 
                 <h4>Resume</h4>
                 <a
-                  href={Resume}
+                  href="https://docs.google.com/document/d/1TvX-3BquNaXXLC3rSu0DsOy7caOVJJZXM8TmAVIC47s/edit#heading=h.1vb2dmqv1isa"
                   rel="noreferrer noopener"
                   target="_blank"
                   download
                 >
+                  Kevin's Resume
                   <img src={ImageResume} alt="resume" />
                 </a>
               </div>
