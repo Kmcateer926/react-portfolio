@@ -42,8 +42,7 @@ const Contact = () => {
                 linkedin.com/in/kevin-mcateer-27950b1b5
               </a>
             </div>
-            <div
-            >
+            <div>
               <h4>Resume</h4>
               <a
                 href={resume}
