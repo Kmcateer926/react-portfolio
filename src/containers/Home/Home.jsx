@@ -1,20 +1,31 @@
 import React from "react";
-import "./Home.css"
+import "./Home.css";
 import image1 from "./image1.jpg";
+import Background from "./background.jpg";
+
+var sectionStyle = {
+    height: "100%",
+  
+  position:"absolute",
+  
+  width:"100%",
+  transition:"0.5s",
+  backgroundImage: `url(${Background})`,
+};
 // var imageKevin = require(`./images/image1.jpg`)
 const Home = () => {
   return (
-    <main className="row">
+    <main className="row" style={sectionStyle}>
       <div className="col-sm-12">
         <div className="col-sm-12">
-          <h1>About Me</h1>
+          <h1 style={{ color: "white" }}>About Me</h1>
           <img
             src={image1}
             // className="img-fluid float-left"
             alt="Kevin McAteer"
           />
 
-          <p className="text-justify">
+          <p className="text-justify" style={{ color: "white" }}>
             I grew up in a military family and lived all over the place, as a
             result I love to travel. I attended the university of North Georgia
             where I received a bachelors with a major in Arabic and minor in

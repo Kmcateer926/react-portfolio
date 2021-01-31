@@ -1,0 +1,12 @@
+#contact {
+    text-align: center;
+    font-family: 'Oleo Script', cursive;
+  }
+
+img {
+    width: 50;
+    height: 50;
+    display: "flex";
+    Justify-Content: center;
+    Align-Items: center;;
+  }
