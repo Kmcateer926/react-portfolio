@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.3657b4d5.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.7f268409.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.7f268409.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.f91cd6a7.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f91cd6a7.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.b671d147.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b671d147.js.map",
     "static/css/2.150d169a.chunk.css": "/react-portfolio/static/css/2.150d169a.chunk.css",
@@ -16,7 +16,7 @@
     "static/js/2.7f000f96.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.7f000f96.chunk.js.LICENSE.txt",
     "static/media/Resume(2020).6f4864bb.pdf": "/react-portfolio/static/media/Resume(2020).6f4864bb.pdf",
     "static/media/background.adb103c6.jpg": "/react-portfolio/static/media/background.adb103c6.jpg",
-    "static/media/image1.8d3184b4.jpg": "/react-portfolio/static/media/image1.8d3184b4.jpg",
+    "static/media/kevin.8d3184b4.jpg": "/react-portfolio/static/media/kevin.8d3184b4.jpg",
     "static/media/resume.3cbaba47.png": "/react-portfolio/static/media/resume.3cbaba47.png"
   },
   "entrypoints": [
@@ -24,6 +24,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.7f000f96.chunk.js",
     "static/css/main.3657b4d5.chunk.css",
-    "static/js/main.7f268409.chunk.js"
+    "static/js/main.f91cd6a7.chunk.js"
   ]
 }
