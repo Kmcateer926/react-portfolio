@@ -5,3 +5,21 @@ img {
   opacity: 100%;
   border-radius: 3px;
   }
+
+  body {
+    background-image: url(https://static.fmgsuite.com/media/images/dc96c7bf-ce0c-4935-8051-a88dd50cf516.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  p {
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    margin-left: 80px;
+    background: white;
+    max-width: 100%;
+    height: auto;
+    align-content: center;
+    font-family: 'Oleo Script', cursive;
+  }
